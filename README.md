@@ -25,10 +25,10 @@ data = load_data('weibo') # in PyG format
 
 For injected/generated datasets, the labels meanings are as follows. 
 
-0: inlier
-1: contextual outlier only
-2: structural outlier only
-3: both contextual outlier and structural outlier
+- 0: inlier
+- 1: contextual outlier only
+- 2: structural outlier only
+- 3: both contextual outlier and structural outlier
 
 Examples to convert the labels are as follows:
 
