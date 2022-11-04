@@ -25,6 +25,7 @@ To use the datasets:
 from pygod.utils import load_data
 data = load_data('weibo') # in PyG format
 ```
+Alternative download source in Baidu Disk (Chinese): https://pan.baidu.com/s/1afEZaygCRUYWJPtVbzuRYw Access Code: bond
 
 For injected/generated datasets, the labels meanings are as follows. 
 
