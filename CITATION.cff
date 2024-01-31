@@ -1,73 +1,61 @@
 cff-version: 1.2.0
-message: If you use this software, please cite it as below.
-title: PyTorch
+message: If you use this library, please cite it as below.
+title: PyGOD
 authors:
-  - family-names: PyTorch Team
-url: https://pytorch.org
+  - family-names: PyGOD Team
+url: https://pygod.org
 preferred-citation:
   type: conference-paper
-  title: "PyTorch: An Imperative Style, High-Performance Deep Learning Library"
+  title: "BOND: Benchmarking Unsupervised Outlier Node Detection on Static Attributed Graphs"
   authors:
-    - family-names: Paszke
-      given-names: Adam
-    - family-names: Gross
-      given-names: Sam
-    - family-names: Massa
-      given-names: Francisco
-    - family-names: Lerer
-      given-names: Adam
-    - family-names: Bradbury
-      given-names: James
-    - family-names: Chanan
-      given-names: Gregory
-    - family-names: Killeen
-      given-names: Trevor
-    - family-names: Lin
-      given-names: Zeming
-    - family-names: Gimelshein
-      given-names: Natalia
-    - family-names: Antiga
-      given-names: Luca
-    - family-names: Desmaison
-      given-names: Alban
-    - family-names: Kopf
-      given-names: Andreas
-    - family-names: Yang
-      given-names: Edward
-    - family-names: DeVito
-      given-names: Zachary
-    - family-names: Raison
-      given-names: Martin
-    - family-names: Tejani
-      given-names: Alykhan
-    - family-names: Chilamkurthy
-      given-names: Sasank
-    - family-names: Steiner
-      given-names: Benoit
-    - family-names: Fang
-      given-names: Lu
-    - family-names: Bai
-      given-names: Junjie
-    - family-names: Chintala
-      given-names: Soumith
-  collection-title: Advances in Neural Information Processing Systems 32
+    - family-names: Liu
+      given-names: Kay
+    - family-names: Dou
+      given-names: Yingtong
+    - family-names: Zhao
+      given-names: Yue
+    - family-names: Ding
+      given-names: Xueying
+    - family-names: Hu
+      given-names: Xiyang
+    - family-names: Zhang
+      given-names: Ruitong
+    - family-names: Ding
+      given-names: Kaize
+    - family-names: Chen
+      given-names: Canyu
+    - family-names: Peng
+      given-names: Hao
+    - family-names: Shu
+      given-names: Kai
+    - family-names: Sun
+      given-names: Lichao
+    - family-names: Li
+      given-names: Jundong
+    - family-names: Chen
+      given-names: George H
+    - family-names: Jia
+      given-names: Zhihao
+    - family-names: Yu
+      given-names: Philip S
+  collection-title: Advances in Neural Information Processing Systems 35
   collection-type: proceedings
   editors:
-    - family-names: Wallach
-      given-names: H.
-    - family-names: Larochelle
-      given-names: H.
-    - family-names: Beygelzimer
+    - family-names: Koyejo
+      given-names: S.
+    - family-names: Mohamed
+      given-names: S.
+    - family-names: Agarwal
       given-names: A.
-    - family-names: "d'Alché-Buc"
-      given-names: F.
-    - family-names: Fox
-      given-names: E.
-    - family-names: Garnett
-      given-names: R.
-  start: 8024
-  end: 8035
-  year: 2019
+    - family-names: Belgrave
+      given-names: D.
+    - family-names: Cho
+      given-names: K.
+    - family-names: Oh
+      given-names: A.
+  start: 27021
+  end: 27035
+  year: 2022
   publisher:
     name: Curran Associates, Inc.
-  url: http://papers.neurips.cc/paper/9015-pytorch-an-imperative-style-high-performance-deep-learning-library.pdf
+  url: https://proceedings.neurips.cc/paper_files/paper/2022/file/acc1ec4a9c780006c9aafd595104816b-Paper-Datasets_and_Benchmarks.pdf
